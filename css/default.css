@@ -2,12 +2,14 @@ body {
     background-color: white;
     background-image: url("../img/saint-george.jpg");
     background-attachment: fixed;
-    background-position: right top;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 h1 {
-    font-family: 'Prata', serif;
+    display: none;
+
+    font-family: serif;
     font-size: 10vw;
 }
